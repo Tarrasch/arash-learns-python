@@ -1,3 +1,7 @@
+# Run with:
+#
+# $ curl --silent https://raw.githubusercontent.com/Tarrasch/arash-learns-python/master/ast.py | python -
+
 import abc
 
 class TypeErrorException(Exception):
